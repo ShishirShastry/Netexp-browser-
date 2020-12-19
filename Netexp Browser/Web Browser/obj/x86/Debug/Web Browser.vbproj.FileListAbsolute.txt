@@ -1,0 +1,33 @@
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\Web_Browser.Form1.resources
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\Web_Browser.Resources.resources
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\Web Browser.exe
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\Web Browser.xml
+C:\Users\Administrator\Pictures\Web Browser\Web Browser\obj\x86\Debug\Web Browser.pdb
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Netexp Browser.exe
+F:\Visual basic applications\Netexp Browser\Web Browser\bin\Debug\Netexp Browser.exe
+F:\Visual basic applications\Netexp Browser\Web Browser\bin\Debug\Netexp Browser.pdb
+F:\Visual basic applications\Netexp Browser\Web Browser\bin\Debug\Netexp Browser.xml
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Netexp_Browser.Form1.resources
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Netexp_Browser.Resources.resources
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Netexp Browser.xml
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Netexp Browser.pdb
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Web Browser.vbproj.GenerateResource.Cache
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Web Browser.vbproj.CoreCompileInputs.cache
+F:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Web Browser.vbprojResolveAssemblyReference.cache
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Web Browser.vbprojResolveAssemblyReference.cache
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Web Browser.vbproj.GenerateResource.Cache
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Web Browser.vbproj.CoreCompileInputs.cache
+G:\Visual basic applications\Netexp Browser\Web Browser\bin\Debug\Pelican  Browser.exe
+G:\Visual basic applications\Netexp Browser\Web Browser\bin\Debug\Pelican  Browser.pdb
+G:\Visual basic applications\Netexp Browser\Web Browser\bin\Debug\Pelican  Browser.xml
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Pelican_Browser.Form1.resources
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Pelican_Browser.Resources.resources
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Pelican  Browser.exe
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Pelican  Browser.xml
+G:\Visual basic applications\Netexp Browser\Web Browser\obj\x86\Debug\Pelican  Browser.pdb
